@@ -21,7 +21,7 @@ To edit this repository in MakeCode.
 
 * Only for V1, for V2, use other branch, to get features
   
-* The OS contains 2 games, a timer , a stopwatch, Accurate Compass, a Pedometer (with walking and running distances) and a Time setup and view system.
+* The OS contains 1 game, a basic message system,  Accurate Compass, a Pedometer (with walking and running distances) and a Time setup and view system.
 
 
 
